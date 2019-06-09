@@ -1,5 +1,6 @@
 badge_maker("Edsger")
 => "Hello, my name is Edsger."
+create_badge
 batch_badge_creator
 
 def "Edsger","Ada","Charles","Alan","Grace","Linus","Matz"
